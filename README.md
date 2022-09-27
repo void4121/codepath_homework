@@ -8,8 +8,6 @@ screenfetch
 echo $name'@'$univ
 ```
 
-Save the file as **screenfetch.gif**.
-
 **Challenges and Problems**: 
 
 ### Installing VirtualBox and Kali
