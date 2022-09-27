@@ -8,8 +8,6 @@ screenfetch
 echo $name'@'$univ
 ```
 
-**Challenges and Problems**: 
-
 ### Installing VirtualBox and Kali
 
 <img src="vbox_kali.gif" alt="Virtualbox Installation">
